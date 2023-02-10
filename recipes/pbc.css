@@ -1,0 +1,19 @@
+
+img {
+    height:auto;
+    width: 500px;
+}
+
+p {
+    color:blueviolet;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+}
+
+h1 {
+    background-color: rgb(94, 154, 218);
+    color: white;
+}
